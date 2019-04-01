@@ -2218,7 +2218,7 @@ chokidar@^2.0.0, chokidar@^2.0.2:
 
 chokidar@^2.0.4:
   version "2.1.5"
-  resolved "http://registry.npm.taobao.org/chokidar/download/chokidar-2.1.5.tgz?cache=0&other_urls=http%3A%2F%2Fregistry.npm.taobao.org%2Fchokidar%2Fdownload%2Fchokidar-2.1.5.tgz#0ae8434d962281a5f56c72869e79cb6d9d86ad4d"
+  resolved "http://registry.npm.taobao.org/chokidar/download/chokidar-2.1.5.tgz#0ae8434d962281a5f56c72869e79cb6d9d86ad4d"
   integrity sha1-CuhDTZYigaX1bHKGnnnLbZ2GrU0=
   dependencies:
     anymatch "^2.0.0"
@@ -4062,7 +4062,7 @@ fs.realpath@^1.0.0:
 
 fsevents@1.2.4:
   version "1.2.4"
-  resolved "http://registry.npm.taobao.org/fsevents/download/fsevents-1.2.4.tgz#f41dcb1af2582af3692da36fc55cbd8e1041c426"
+  resolved "http://registry.npm.taobao.org/fsevents/download/fsevents-1.2.4.tgz?cache=0&other_urls=http%3A%2F%2Fregistry.npm.taobao.org%2Ffsevents%2Fdownload%2Ffsevents-1.2.4.tgz#f41dcb1af2582af3692da36fc55cbd8e1041c426"
   integrity sha1-9B3LGvJYKvNpLaNvxVy9jhBBxCY=
   dependencies:
     nan "^2.9.2"
@@ -7896,7 +7896,7 @@ react-app-polyfill@^0.2.2:
 
 react-dev-utils@^8.0.0:
   version "8.0.0"
-  resolved "http://registry.npm.taobao.org/react-dev-utils/download/react-dev-utils-8.0.0.tgz#7c5b227a45a32ea8ff7fbc318f336cf9e2c6e34c"
+  resolved "http://registry.npm.taobao.org/react-dev-utils/download/react-dev-utils-8.0.0.tgz?cache=0&other_urls=http%3A%2F%2Fregistry.npm.taobao.org%2Freact-dev-utils%2Fdownload%2Freact-dev-utils-8.0.0.tgz#7c5b227a45a32ea8ff7fbc318f336cf9e2c6e34c"
   integrity sha1-fFsiekWjLqj/f7wxjzNs+eLG40w=
   dependencies:
     "@babel/code-frame" "7.0.0"
@@ -7947,7 +7947,7 @@ react-is@^16.8.1:
 
 react-scripts@2.1.8:
   version "2.1.8"
-  resolved "http://registry.npm.taobao.org/react-scripts/download/react-scripts-2.1.8.tgz?cache=0&other_urls=http%3A%2F%2Fregistry.npm.taobao.org%2Freact-scripts%2Fdownload%2Freact-scripts-2.1.8.tgz#21195bb928b2c0462aa98b2d32edf7d034cff2a9"
+  resolved "http://registry.npm.taobao.org/react-scripts/download/react-scripts-2.1.8.tgz#21195bb928b2c0462aa98b2d32edf7d034cff2a9"
   integrity sha1-IRlbuSiywEYqqYstMu330DTP8qk=
   dependencies:
     "@babel/core" "7.2.2"
